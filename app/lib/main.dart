@@ -1,7 +1,7 @@
-import 'package:app/helpers/shared_pref.dart';
-import 'package:app/screens/home.dart';
-import 'package:app/screens/login.dart';
-import 'package:app/screens/splash.dart';
+import 'package:bluestacks_assignment/helpers/shared_pref.dart';
+import 'package:bluestacks_assignment/screens/home.dart';
+import 'package:bluestacks_assignment/screens/login.dart';
+import 'package:bluestacks_assignment/screens/splash.dart';
 import 'package:flutter/material.dart';
 
 void main() {

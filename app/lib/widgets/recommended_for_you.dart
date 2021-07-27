@@ -1,5 +1,5 @@
-import 'package:app/models/tournament_card_model.dart';
-import 'package:app/widgets/tournament_card.dart';
+import 'package:bluestacks_assignment/models/tournament_card_model.dart';
+import 'package:bluestacks_assignment/widgets/tournament_card.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:http/http.dart' as http;

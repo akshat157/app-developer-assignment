@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:app/models/user_model.dart';
+import 'package:bluestacks_assignment/models/user_model.dart';
 import 'package:http/http.dart' as http;
 
 class UserDetailsApi {
