@@ -1,11 +1,11 @@
-import 'package:bluestacks_assignment/helpers/shared_pref.dart';
-import 'package:bluestacks_assignment/models/user_model.dart';
-import 'package:bluestacks_assignment/providers/login_api.dart';
-import 'package:bluestacks_assignment/providers/user_details_api.dart';
-import 'package:bluestacks_assignment/screens/login.dart';
-import 'package:bluestacks_assignment/screens/splash.dart';
-import 'package:bluestacks_assignment/widgets/recommended_for_you.dart';
-import 'package:bluestacks_assignment/widgets/user_details.dart';
+import 'package:app/helpers/shared_pref.dart';
+import 'package:app/models/user_model.dart';
+import 'package:app/providers/login_api.dart';
+import 'package:app/providers/user_details_api.dart';
+import 'package:app/screens/login.dart';
+import 'package:app/screens/splash.dart';
+import 'package:app/widgets/recommended_for_you.dart';
+import 'package:app/widgets/user_details.dart';
 import 'package:flutter/material.dart';
 import 'dart:math' as math;
 

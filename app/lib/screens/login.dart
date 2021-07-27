@@ -1,6 +1,6 @@
-import 'package:bluestacks_assignment/providers/login_api.dart';
-import 'package:bluestacks_assignment/screens/home.dart';
-import 'package:bluestacks_assignment/helpers/globals.dart' as globals;
+import 'package:app/providers/login_api.dart';
+import 'package:app/screens/home.dart';
+import 'package:app/helpers/globals.dart' as globals;
 import 'package:flutter/material.dart';
 
 GlobalKey<FormState>? _formKey = GlobalKey<FormState>();

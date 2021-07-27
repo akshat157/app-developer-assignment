@@ -1,5 +1,5 @@
-import 'package:bluestacks_assignment/widgets/user_info.dart';
-import 'package:bluestacks_assignment/widgets/user_stats.dart';
+import 'package:app/widgets/user_info.dart';
+import 'package:app/widgets/user_stats.dart';
 import 'package:flutter/material.dart';
 
 class UserDetails extends StatelessWidget {
